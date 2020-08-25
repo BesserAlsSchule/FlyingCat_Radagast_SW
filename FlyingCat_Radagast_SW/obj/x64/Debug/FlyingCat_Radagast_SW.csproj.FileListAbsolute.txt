@@ -1,0 +1,16 @@
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\bin\x64\Debug\FlyingCat_Radagast_SW.exe.config
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\bin\x64\Debug\FlyingCat_Radagast_SW.exe
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\bin\x64\Debug\FlyingCat_Radagast_SW.pdb
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\MainWindow.g.cs
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\App.g.cs
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW_MarkupCompile.cache
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW_MarkupCompile.lref
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\App.baml
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\MainWindow.baml
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW.g.resources
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW.Properties.Resources.resources
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW.csproj.GenerateResource.cache
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW.csproj.CoreCompileInputs.cache
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW.exe
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\obj\x64\Debug\FlyingCat_Radagast_SW.pdb
+D:\Projects\repos\FlyingCat_Radagast_SW\FlyingCat_Radagast_SW\bin\x64\Debug\assets\giphy_heaven.gif
